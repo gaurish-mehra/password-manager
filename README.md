@@ -20,4 +20,4 @@
 
 > If you have any questions, please let me know.>
 
-> I am currently working to make this more secure and integrated to your browser, but that might take a while also i was thinking about making custom salting for every user, lmk if i should do that and yes i know the encyption used is not the best, therefore i am working on a better on with the custom salts.>
+> I am currently working to make this more secure and integrated to your browser, but that might take a while also i was thinking about making custom salting for every user, lmk if i should do that and yes i know the encyption used is not the best, therefore i am working one a better on with the custom salts.>
